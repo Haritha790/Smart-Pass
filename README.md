@@ -270,11 +270,13 @@ If you are developing a production application, we recommend using TypeScript wi
 
 **Haritha Bammidi**
 
-GitHub: https://github.com/Haritha790
+GitHub: https://github.com/Haritha790 
 
 Project Repository: https://github.com/Haritha790/Smart-Pass.git
 
-Live Demo: smart-passs.netlify.app
+Live Demo: https://smart-passs.netlify.app/
+
+
 
 📧 Open to collaborations and opportunities.
 
